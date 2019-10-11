@@ -1,4 +1,4 @@
-Tensorflow2.0 中文手册
+# Tensorflow2.0 中文手册
 
 <div align="center">
   <img src="./images/tensorflow.png">
@@ -36,9 +36,7 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 
 ## 目录
 
-### 第1部分：Tensorflow2.0
-
-#### 第零章 Tensorflow的介绍及安装
+### 第0章 Tensorflow的介绍及安装
 
 1. [Tensorflow2.0 简介](chapter0/0.1-tensorflow-introduction.md)
 2. [Tensorflow2.0 环境搭建](chapter0/0.2-tensorflow-installation.md)
@@ -46,13 +44,11 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
    - [安装jupyter notebook]()
    - [Pycharm运行jupyter]()
 
-### 第2部分：Tensorflow2.0入门
-
-#### 第一章 10分钟快速入门
+### 第一章 10分钟快速入门TF2.0
 
 1. [Tensorflow快速入门（官方）](chapter1/1.4-beginner.ipynb)
 
-#### 第二章 Keras 基础机器学习
+### 第二章 Keras 基础机器学习
 
 1. [Keras简介](chapter2/2.1-keras_overview.md)
 2. [基础图像分类入门](chapter2/2.2-classification.ipynb)
@@ -63,7 +59,7 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 5. [过拟合与欠拟合](chapter2/2.5-overfit_and_underfit.ipynb)
 6. [模型的保存与载入](chapter2/2.6-save_and_load.ipynb)
 
-#### 第三章 数据的载入与预处理
+### 第三章 数据的载入与预处理
 
 1. [CSV数据](chapter3/3.1-csv.ipynb)
 2. [Numpy数据](chapter3/3.2-numpy.ipynb)
@@ -71,43 +67,37 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 4. [图片数据](chapter3/3.4-images.ipynb)
 5. [文本数据](chapter3/3.5-text.ipynb)
 
-#### 第四章 Estimator的使用
+### 第四章 Estimator的使用
 
 1. [预创建Estimator](chapter4/4.1-premade.ipynb)
 2. [线性模型](chapter4/4.2-linear.ipynb)
 3. [提升树模型](chapter4/4.3-boosted_trees.ipynb)
 
-### 第3部分 Tensorflow2.0进阶
-
-#### 第五章 定制化训练
+### 第五章 定制化训练
 
 [定制化训练](chapter3/3.1-logistic-regression.ipynb)
 
-#### 第六章 分布式训练
+### 第六章 分布式训练
 
 [分布式训练](chapter3/3.2-mnist.ipynb)
 
-#### 第七章 图片进阶
+### 第七章 图片进阶
 
 [图片进阶](chapter3/3.3-rnn.ipynb)
 
-#### 第八章 文本进阶
+### 第八章 文本进阶
 
 [文本进阶]()
 
-#### 第九章 结构化数据
+### 第九章 结构化数据
 
 [结构化数据]()
 
-#### 第十章 生成对抗网络GAN
+### 第十章 生成对抗网络GAN
 
 [生成对抗网络GAN]()
 
-### 第4部分 Tensorflow2.0模型部署
-
-
-
-### 第5部分 应用
+### 第2部分 应用
 
 #### 第一章 Kaggle介绍
 
