@@ -1,2 +1,2 @@
-# tensorflow-handbook
+# Tensorflow-Handbook
 tensorflow handbook是一本开源的书籍，目标是帮助那些希望和使用tensorflow2.0以上进行深度学习开发和研究的朋友快速入门，其中包含的Tensorflow教程全部通过测试保证可以成功运行
