@@ -34,7 +34,7 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 
 ![QR1](./images/QR1.png) 
 
-## 目录
+## 目 录
 
 ### 第0章 Tensorflow的介绍及安装
 
@@ -46,7 +46,7 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 
 ### 第一章 10分钟快速入门TF2.0
 
-1. [Tensorflow快速入门（官方）](chapter1/1.4-beginner.ipynb)
+1. [Tensorflow快速入门（官方）](chapter1/1.1-beginner.ipynb)
 
 ### 第二章 Keras 基础机器学习
 
