@@ -52,7 +52,7 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 
 1. [Keras简介](chapter2/2.1-keras_overview.md)
 2. [基础图像分类入门](chapter2/2.2-classification.ipynb)
-3. [基础文本分类入门](chapter2)
+3. 基础文本分类入门
    - [TF.Hub文本分类](chapter2/2.3.1-text_classification_with_hub.ipynb)
    - [电影评论文本分类](chapter2/2.3.2-text_classification.ipynb)
 4. [回归模型](chapter2/2.4-regression.ipynb)

@@ -8,3 +8,7 @@
 
 - [马上学123博客](http://www.mashangxue123.com/)
 
+本文档的章节安排和布局参考了
+
+- [Pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+
