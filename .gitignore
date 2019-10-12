@@ -1,1 +1,9 @@
 .ipynb_checkpoints
+chapter2/checkpoints/
+chapter2/my_model.h5
+chapter2/saved_models/
+chapter2/training_1/
+chapter2/training_2/
+chapter3/cache.tf-data.data-00000-of-00001
+chapter3/cache.tf-data.index
+chapter3/images.tfrec
