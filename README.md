@@ -109,16 +109,6 @@ HEAD -> 2019.10.1  Tensorflow2.0.0稳定版。
 
 #### 第五章 协同过滤
 
-### 第6部分 资源
-
-### 第7部分 附录
-
-transforms的常用操作总结
-
-tensorflow的损失函数总结
-
-tensorflow的优化器总结
-
 ## License
 
-![](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
