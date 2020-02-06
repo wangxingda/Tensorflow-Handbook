@@ -1,4 +1,4 @@
-# Tensorflow2.0 中文手册
+# Tensorflow2.1 中文手册
 
 <div align="center">
   <img src="./images/tensorflow.png">
